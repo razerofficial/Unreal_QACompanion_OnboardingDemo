@@ -20,14 +20,22 @@ This demo is an Unreal game with two camera views:
 
 ### Prerequisites
 
-Before using vision bug detection, you must install the **Razer Game Data Bridge (RGDB)**:
+Before using vision bug detection, you must:
 
-1. Visit [qac.razer.ai](https://qac.razer.ai)
-2. Download and install the Razer Game Data Bridge
-3. Start the RGDB application
-4. Verify the installation by checking the indicator in the top right of the demo—it should turn **green** when RGDB is running
+1. **Install the Razer Game Data Bridge (RGDB)**:
+   - Visit [qac.razer.ai](https://qac.razer.ai)
+   - Download and install the Razer Game Data Bridge
+   - Start the RGDB application
+   - Verify the installation by checking the indicator in the top right of the demo—it should turn **green** when RGDB is running
 
-> **Note**: Vision bug detection will not work until RGDB is installed and the indicator shows green.
+2. **Have available user credits**:
+   - Vision bug detection requires user credits to operate
+   - Check your credit balance on the QA Companion website:
+     - Log in to [qac.razer.ai](https://qac.razer.ai)
+     - Click the **user tab** in the bottom left of the page
+     - View your available credits balance
+
+> **Note**: Vision bug detection will not work until RGDB is installed and running (green indicator), and you have remaining credits available.
 
 ## Controls
 
@@ -49,5 +57,7 @@ Camera 2 features a mesh with missing textures—ideal for testing QA Companion'
 
 ## Troubleshooting
 
-- **Vision bug detection not working?** Ensure RGDB is installed and running (check the top right indicator)
+- **Vision bug detection not working?** Check the following:
+  - RGDB is installed and running (check the top right indicator—should be green)
+  - You have available user credits (check on [qac.razer.ai](https://qac.razer.ai) via the user tab in the bottom left)
 - **Demo won't start?** Verify you have the latest release and all files are properly extracted
