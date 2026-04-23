@@ -14,7 +14,7 @@ This demo is an Unreal game with two camera views:
 ### Installation
 
 1. Go to the [GitHub releases](https://github.com/razerofficial/Unreal_QACompanion_OnboardingDemo/releases) page
-2. Download the latest release (ZIP file)
+2. Download the latest release (ZIP file named something like QacFirstTimeDemo-xxxxxxx-shipping.zip)
 3. Unzip the downloaded file
 4. Run `QacFirstTimeDemo.exe`
 
