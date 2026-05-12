@@ -43,8 +43,8 @@ Before using vision bug detection, you must:
 |-----|--------|
 | `1` | Switch to Camera 1 (Instructions) |
 | `2` | Switch to Camera 2 (Test Scene) |
-| `Ctrl + Shift + B` | Record bug (captures last 20 seconds) |
-| `Alt + F4` | Exit demo |
+| `Ctrl + Shift + V` | Record bug (captures last 30 seconds) |
+| `Esc` | Exit demo |
 
 ## Testing the Vision Bug Detection
 
@@ -52,8 +52,8 @@ Camera 2 features a mesh with missing textures—ideal for testing QA Companion'
 
 1. Switch to Camera 2 using the `2` key
 2. Observe the mesh with missing texture
-3. Press `Ctrl + Shift + B` to record the issue
-4. QA Companion will capture the last 20 seconds of gameplay for analysis
+3. Press `Ctrl + Shift + V` to record the issue
+4. QA Companion will capture the last 30 seconds of gameplay for analysis
 
 ## Troubleshooting
 
